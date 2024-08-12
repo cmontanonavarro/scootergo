@@ -14,6 +14,7 @@ class moto_model extends Model
     protected $useSoftDeletes = false;
     protected $allowedFields = [
         'matriculaMoto',
+        'fotoMoto',
         'marcaMoto',
         'modeloMoto',
         'cilindradaMoto',
