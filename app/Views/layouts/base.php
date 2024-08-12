@@ -4,11 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alquiler de Scooters</title>
-    <link rel="shortcut icon" type="image/png" href="/scgo_icon.png">
+    <link rel="shortcut icon" type="image/png" href="/scgo_favicon.png">
     <!-- Bulma CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+
+    <style>
+
+        .container {
+            margin-right: 0;
+        }
+    </style>
 </head>
 <body>
-    <?= $this->renderSection('content') ?>
+        <div class="container">
+            <?= $this->renderSection('content') ?>
+        </div>
 </body>
 </html>
