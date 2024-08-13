@@ -56,7 +56,7 @@
                         <div class="column">
                             <div class="box has-text-centered">
                                 <figure class="image is-128x128">
-                                    <img src="https://via.placeholder.com/150" alt="Moto1">
+                                    <img src="<?= $fotoMoto ?>" alt="Moto1">
                                 </figure>
                                 <p>(Moto1)</p>
                             </div>
@@ -64,7 +64,7 @@
                         <div class="column">
                             <div class="box has-text-centered">
                                 <figure class="image is-128x128">
-                                    <img src="https://via.placeholder.com/150" alt="Moto2">
+                                    <img src="<?= $fotoMoto ?>" alt="Moto2">
                                 </figure>
                                 <p>(Moto2)</p>
                             </div>
@@ -72,7 +72,7 @@
                         <div class="column">
                             <div class="box has-text-centered">
                                 <figure class="image is-128x128">
-                                    <img src="https://via.placeholder.com/150" alt="Moto3">
+                                    <img src="<?= $fotoMoto ?>" alt="Moto3">
                                 </figure>
                                 <p>(Moto3)</p>
                             </div>

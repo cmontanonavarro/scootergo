@@ -1,0 +1,1696 @@
+CRITICAL - 2024-08-13 08:09:40 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:09:40 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:09:41 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:09:41 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:09:41 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:09:41 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:09:41 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:09:54 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:09:54 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:09:55 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:11:55 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:11:56 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:11:56 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:11:56 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:11:56 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:11:57 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:11:57 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 08:11:57 --> ErrorException: Undefined variable $fotoMoto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fotoMoto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 08:25:04 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 08:25:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 08:25:21 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 08:25:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 08:25:53 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 08:25:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 08:45:21 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 08:45:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 08:45:35 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 08:45:35 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 08:50:23 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 08:50:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 08:52:22 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 08:52:22 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 08:55:23 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 08:55:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 08:57:44 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 08:57:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 09:11:46 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 09:11:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 09:11:48 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 09:11:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 09:15:20 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 09:15:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 09:15:26 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 09:15:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 09:41:57 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 09:41:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 09:46:40 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 09:46:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-13 09:49:29 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\wamp64\\www\\s...', 186)
+#1 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#8 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#9 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#14 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#15 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#16 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('scootergo', 'root', Object(SensitiveParameterValue), 'scgodb', 3306, '', 0)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#7 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#8 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido.  in C:\wamp64\www\scootergo\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\scootergo\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\scootergo\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\scootergo\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\scootergo\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+#6 C:\wamp64\www\scootergo\app\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+#7 C:\wamp64\www\scootergo\app\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+#8 C:\wamp64\www\scootergo\system\CodeIgniter.php(933): App\Controllers\Home->index()
+#9 C:\wamp64\www\scootergo\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\scootergo\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\scootergo\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\scootergo\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\scootergo\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-13 09:49:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for scootergo failed: Host desconocido. 
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `moto`
+ORDER BY RAND()
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\moto_controller.php(16): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\moto_controller.php(26): App\Controllers\moto_controller->obtenerMotoRandom()
+ 7 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:50:18 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: /]
+in APPPATH\Controllers\moto_controller.php on line 30.
+ 1 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:56:04 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:56:19 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: /]
+in APPPATH\Controllers\moto_controller.php on line 30.
+ 1 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:59:00 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:59:01 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:59:01 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:59:01 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:59:02 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:59:02 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:59:02 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:59:02 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:59:02 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 09:59:55 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 10:58:32 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 10:58:46 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 10:59:53 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 10:59:59 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-13 11:00:17 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: /]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Controllers\moto_controller.php(30): base_url(null)
+ 4 APPPATH\Controllers\home.php(13): App\Controllers\moto_controller->mostrarFotoMotoCarrusel()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

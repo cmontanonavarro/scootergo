@@ -1,0 +1,406 @@
+CRITICAL - 2024-08-12 09:46:18 --> ErrorException: Undefined variable $foto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $foto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:10:26 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:10:27 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:10:27 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:10:27 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:10:27 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:10:28 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:10:28 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:10:28 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:10:28 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:11:45 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:17 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:18 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:18 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:18 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:19 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:19 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:19 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:19 --> ErrorException: Undefined variable $moto
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $moto', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:45 --> ErrorException: Undefined variable $motos
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $motos', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:45 --> ErrorException: Undefined variable $motos
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $motos', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:45 --> ErrorException: Undefined variable $motos
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $motos', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:46 --> ErrorException: Undefined variable $motos
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $motos', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:46 --> ErrorException: Undefined variable $motos
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $motos', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:46 --> ErrorException: Undefined variable $motos
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $motos', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:46 --> ErrorException: Undefined variable $motos
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $motos', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:13:46 --> ErrorException: Undefined variable $motos
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $motos', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:14:21 --> ErrorException: Undefined variable $motos
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $motos', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-12 11:14:21 --> ErrorException: Undefined variable $motos
+[Method: GET, Route: /]
+in APPPATH\Views\homeView.php on line 59.
+ 1 APPPATH\Views\homeView.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $motos', 'C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\homeView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homeView', [], true)
+ 5 APPPATH\Controllers\home.php(9): view('homeView')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
