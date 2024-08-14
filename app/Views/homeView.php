@@ -51,7 +51,7 @@
                     <!-- Carrusel -->
                     <div class="columns is-vcentered">
                         <div class="column is-1">
-                            <a class="button is-primary is-inverted"><i class="fas fa-chevron-left"></i></a>
+                            <a class="button is-primary is-inverted"><i class="fas fa-chevron-left has-text-info"></i></a>
                         </div>
                         <div class="column">
                             <div class="box has-text-centered">
@@ -78,7 +78,7 @@
                             </div>
                         </div>
                         <div class="column is-1">
-                            <a class="button is-primary is-inverted"><i class="fas fa-chevron-right"></i></a>
+                            <a class="button is-primary is-inverted"><i class="fas fa-chevron-right has-text-info"></i></a>
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
 
 
     // Convierto el array de PHP a un JSON para usarlo en JavaScript
-    const motos = <?= json_encode($motos); ?>;
+    var motos = <?= json_encode($motos); ?>;
 
     // Compruebo que haya al menos 1 registro
     if (motos.length > 0) {
@@ -120,5 +120,16 @@
     }
 
 </script>
+
+
+<style>
+
+    /* Resalto el hover sobre las flechas del carrusel con cambio de color */
+    .button:hover i.has-text-info {
+        color: #00d1b2 !important;
+    }
+
+
+</style>
 
 <?= $this->endSection() ?>
