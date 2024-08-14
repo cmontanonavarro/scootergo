@@ -56,25 +56,25 @@
                         <div class="column">
                             <div class="box has-text-centered">
                                 <figure class="image is-128x128">
-                                    <img src="<?= $fotoMoto ?>" alt="Moto1">
+                                    <img src="" alt="Moto1">
                                 </figure>
-                                <p>(Moto1)</p>
+                                <p id="moto1"></p>
                             </div>
                         </div>
                         <div class="column">
                             <div class="box has-text-centered">
                                 <figure class="image is-128x128">
-                                    <img src="<?= $fotoMoto ?>" alt="Moto2">
+                                    <img src="" alt="Moto2">
                                 </figure>
-                                <p>(Moto2)</p>
+                                <p id="moto2"></p>
                             </div>
                         </div>
                         <div class="column">
                             <div class="box has-text-centered">
                                 <figure class="image is-128x128">
-                                    <img src="<?= $fotoMoto ?>" alt="Moto3">
+                                    <img src="" alt="Moto3">
                                 </figure>
-                                <p>(Moto3)</p>
+                                <p id="moto3"></p>
                             </div>
                         </div>
                         <div class="column is-1">
@@ -86,5 +86,39 @@
         </section>
     </div>
 </div>
+
+<script>
+
+
+    // Convierto el array de PHP a un JSON para usarlo en JavaScript
+    const motos = <?= json_encode($motos); ?>;
+
+    // Compruebo que haya al menos 1 registro
+    if (motos.length > 0) {
+        
+        // Modifico src, alt y p de la primera moto
+        document.querySelector('img[alt="Moto1"]').src = motos[0].fotoMoto || 'https://via.placeholder.com/128'; 
+        document.querySelector('img[alt="Moto1"]').alt = motos[0].marcaMoto + ' ' + motos[0].modeloMoto;
+        document.getElementById('moto1').innerText = motos[0].marcaMoto + ' ' + motos[0].modeloMoto;
+
+        // Modifico src, alt y p de la segunda moto
+        if (motos.length > 1) {
+            document.querySelector('img[alt="Moto2"]').src = motos[1].fotoMoto || 'https://via.placeholder.com/128';
+            document.querySelector('img[alt="Moto2"]').alt = motos[1].marcaMoto + ' ' + motos[1].modeloMoto;
+            document.getElementById('moto2').innerText = motos[1].marcaMoto + ' ' + motos[1].modeloMoto;
+        }
+        
+        // Modifico src, alt y p de la tercera moto
+        if (motos.length > 2) {
+            document.querySelector('img[alt="Moto3"]').src = motos[2].fotoMoto || 'https://via.placeholder.com/128';
+            document.querySelector('img[alt="Moto3"]').alt = motos[2].marcaMoto + ' ' + motos[2].modeloMoto;
+            document.getElementById('moto3').innerText = motos[2].marcaMoto + ' ' + motos[2].modeloMoto;
+        }
+
+    } else {
+        console.error("No hay motos disponibles para mostrar en el carrusel.");
+    }
+
+</script>
 
 <?= $this->endSection() ?>

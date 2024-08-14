@@ -9,10 +9,10 @@ class Home extends BaseController
         // Creo instancia de moto_controller
         $motoController = new \App\Controllers\moto_controller();
 
-        // Llamo al método en moto_controller que recupera una foto
-        $fotoMoto = $motoController->mostrarFotoMotoCarrusel();
+        // Llamo a la función en moto_controller que recupera todas las motos
+        $motos = $motoController->obtenerMotos();
 
         // Paso valores a la vista homeView
-        return view('homeView', ['fotoMoto' => $fotoMoto]);
+        return view('homeView', ['motos' => $motos]);
     }
 }
