@@ -2,6 +2,11 @@
 
 <?= $this->section('content') ?>
 
+<!-- Slick -->
+<link rel="stylesheet" type="text/css" href="<?= base_url('css/slick.css'); ?>"/>
+<link rel="stylesheet" type="text/css" href="<?= base_url('css/slick-theme.css'); ?>"/>
+<script type="text/javascript" src="<?= base_url('js/slick.min.js'); ?>"></script>
+
 <!-- Sidebar -->
 <div class="columns">
     <div class="column is-one-fifth">
@@ -49,78 +54,65 @@
                     </div>
                     
                     <!-- Carrusel -->
-                    <div class="columns is-vcentered">
-                        <div class="column is-1">
-                            <a class="button is-primary is-inverted"><i class="fas fa-chevron-left has-text-info"></i></a>
-                        </div>
-                        <div class="column">
-                            <div class="box has-text-centered">
-                                <figure class="image is-128x128">
-                                    <img src="" alt="Moto1">
-                                </figure>
-                                <p id="moto1"></p>
-                            </div>
-                        </div>
-                        <div class="column">
-                            <div class="box has-text-centered">
-                                <figure class="image is-128x128">
-                                    <img src="" alt="Moto2">
-                                </figure>
-                                <p id="moto2"></p>
-                            </div>
-                        </div>
-                        <div class="column">
-                            <div class="box has-text-centered">
-                                <figure class="image is-128x128">
-                                    <img src="" alt="Moto3">
-                                </figure>
-                                <p id="moto3"></p>
-                            </div>
-                        </div>
-                        <div class="column is-1">
-                            <a class="button is-primary is-inverted"><i class="fas fa-chevron-right has-text-info"></i></a>
-                        </div>
-                    </div>
+                    <div class="slick-class columns is-mobile"></div>
+
+                    <!-- Flechas de navegación -->
+                    <button id="slick-prev" class="button is-primary is-inverted"><i class="fas fa-chevron-left has-text-info"></i></button>
+                    <button id="slick-next" class="button is-primary is-inverted"><i class="fas fa-chevron-right has-text-info"></i></button>
+
                 </div>
             </div>
         </section>
     </div>
 </div>
 
-<script>
-
-
-    // Convierto el array de PHP a un JSON para usarlo en JavaScript
-    var motos = <?= json_encode($motos); ?>;
-
-    // Compruebo que haya al menos 1 registro
-    if (motos.length > 0) {
-        
-        // Modifico src, alt y p de la primera moto
-        document.querySelector('img[alt="Moto1"]').src = motos[0].fotoMoto || 'https://via.placeholder.com/128'; 
-        document.querySelector('img[alt="Moto1"]').alt = motos[0].marcaMoto + ' ' + motos[0].modeloMoto;
-        document.getElementById('moto1').innerText = motos[0].marcaMoto + ' ' + motos[0].modeloMoto;
-
-        // Modifico src, alt y p de la segunda moto
-        if (motos.length > 1) {
-            document.querySelector('img[alt="Moto2"]').src = motos[1].fotoMoto || 'https://via.placeholder.com/128';
-            document.querySelector('img[alt="Moto2"]').alt = motos[1].marcaMoto + ' ' + motos[1].modeloMoto;
-            document.getElementById('moto2').innerText = motos[1].marcaMoto + ' ' + motos[1].modeloMoto;
-        }
-        
-        // Modifico src, alt y p de la tercera moto
-        if (motos.length > 2) {
-            document.querySelector('img[alt="Moto3"]').src = motos[2].fotoMoto || 'https://via.placeholder.com/128';
-            document.querySelector('img[alt="Moto3"]').alt = motos[2].marcaMoto + ' ' + motos[2].modeloMoto;
-            document.getElementById('moto3').innerText = motos[2].marcaMoto + ' ' + motos[2].modeloMoto;
-        }
-
-    } else {
-        console.error("No hay motos disponibles para mostrar en el carrusel.");
-    }
+<script type="text/javascript">
+$(document).ready(function(){
+    $('.slick-class').slick({
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        prevArrow: $('#slick-prev'),
+        nextArrow: $('#slick-next')
+    });
+});
 
 </script>
 
+<script>
+
+
+// Convierto el array de PHP a un JSON para usarlo en JavaScript
+var motos = <?= json_encode($motos); ?>;
+
+// Compruebo que haya al menos 1 registro
+if (motos.length > 0) {
+    var container = document.querySelector('.slick-class');
+    motos.forEach(function(moto, index) {
+        var column = document.createElement('div');
+        column.className = 'column is-one-third has-text-centered';
+
+        var img = document.createElement('img');
+        img.src = moto.fotoMoto || 'https://via.placeholder.com/128';
+        img.alt = moto.marcaMoto + ' ' + moto.modeloMoto;
+        img.className = 'fotoCarrusel';
+
+        var p = document.createElement('p');
+        p.id = 'moto' + (index + 1);
+        p.innerText = moto.marcaMoto + ' ' + moto.modeloMoto;
+
+        column.appendChild(img);
+        column.appendChild(p);
+        container.appendChild(column);
+    });    
+} else {
+    console.error("No hay motos disponibles para mostrar en el carrusel.");
+}
+
+
+</script>
 
 <style>
 
@@ -128,7 +120,6 @@
     .button:hover i.has-text-info {
         color: #00d1b2 !important;
     }
-
 
 </style>
 
