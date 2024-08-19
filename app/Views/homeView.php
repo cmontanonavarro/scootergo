@@ -56,6 +56,7 @@
                             <input class="input" type="text" placeholder="¿Qué scooter estás buscando?">
                         </div>
                     </div>
+                
                     
                     <!-- Carrusel -->
                     <div class="slick-class columns is-vcentered"></div>
@@ -82,6 +83,8 @@
             slidesToScroll: 1,
             autoplay: true,
             autoplaySpeed: 2000,
+            dots: true,
+            pauseOnHover: true,
             prevArrow: $('#slick-prev'),
             nextArrow: $('#slick-next')
         });
@@ -126,6 +129,8 @@
     .button:hover i.has-text-info {
         color: #00d1b2 !important;
     }
+    
+    
 
 </style>
 
