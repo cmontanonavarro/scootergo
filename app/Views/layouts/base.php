@@ -12,16 +12,9 @@
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-
-    <style>
-
-        .container {
-            margin-right: 0;
-        }
-    </style>
 </head>
 <body>
-        <div class="container">
+        <div class="container is-fluid">
             <?= $this->renderSection('content') ?>
         </div>
 </body>
