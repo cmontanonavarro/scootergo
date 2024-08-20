@@ -12,16 +12,18 @@
     <!-- Sidebar -->
     <div class="column is-narrow">
         <aside class="menu">
-            
-            <figure class="image is-128x128">
-                <img src="/scgo_favicon.png" alt="Logo">
-            </figure>
 
+        <a href="<?= base_url('/'); ?>">
+                <figure class="image is-128x128">
+                    <img src="/scgo_favicon.png" alt="Logo">
+                </figure>
+        </a>
+        
             <p class="menu-label">Menú</p>
             
             <section class="hero is-small is-link mb-4">
                 <div class="hero-body">
-                    <a href="#">
+                    <a href="<?= base_url('login'); ?>">
                     <p class="title">INICIAR SESIÓN</p>
                     <p class="subtitle">¡Bienvenido de nuevo!</p>
                     </a>
@@ -58,8 +60,8 @@
                     </div>
                 
                     
-                    <!-- Carrusel -->
-                    <div class="slick-class columns is-vcentered"></div>
+                    <!-- Slick Carrusel -->
+                    <div class="slick-class"></div>
 
                     <!-- Flechas de navegación -->
                     <button id="slick-prev" class="button is-primary is-inverted"><i class="fas fa-chevron-left has-text-info"></i></button>
@@ -93,7 +95,7 @@
     // Convierto el array de PHP a un JSON para usarlo en JavaScript
     var motos = <?= json_encode($motos); ?>;
 
-    // Compruebo que haya al menos 1 registro
+    // Accedo a .slick-class y muestro el contenido a partir de var motos
     if (motos.length > 0) {
         var container = document.querySelector('.slick-class');
         motos.forEach(function(moto, index) {
@@ -129,6 +131,7 @@
     .button:hover i.has-text-info {
         color: #00d1b2 !important;
     }
+    
     
     
 
