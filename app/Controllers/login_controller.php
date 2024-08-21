@@ -72,7 +72,7 @@ class login_controller extends Controller
 
                     <section class="hero is-small is-info">
                         <div class="hero-body">
-                            <a href="' . base_url('#') . '">
+                            <a href="' . base_url('logout') . '">
                                 <p class="title">GESTIONAR RESERVAS</p>
                                 <p class="subtitle">asdfasdf</p>
                             </a>
@@ -91,7 +91,7 @@ class login_controller extends Controller
 
                     <section class="hero is-small is-link">
                         <div class="hero-body">
-                            <a href="' . base_url('register') . '">
+                            <a href="' . base_url('#') . '">
                                 <p class="title">CREAR CUENTA</p>
                                 <p class="subtitle">¡Bienvenido a la familia!</p>
                             </a>
@@ -100,6 +100,13 @@ class login_controller extends Controller
             }
 
             return $html;
+    }
+
+    public function logout() {
+        $session = session();
+        $session->destroy();
+
+        return redirect()->to('/');
     }
 
 }
