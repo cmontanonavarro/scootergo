@@ -48,10 +48,17 @@
                     <h2 class="subtitle">
                         Ingresa tus credenciales para continuar
                     </h2>
-                    
+
+                    <!-- Feedback -->
+                    <?php if (session()->getFlashdata('error')): ?>
+                        <div class="notification is-danger">
+                            <?= session()->getFlashdata('error') ?>
+                        </div>
+                    <?php endif; ?>
+
                     <!-- Formulario de Inicio de Sesión -->
                     <div class="box">
-                        <form action="<?= base_url(''); ?>" method="post">
+                    <form action="<?= base_url('login/autenticar'); ?>" method="post">
                             <div class="field">
                                 <label class="label">Correo Electrónico</label>
                                 <div class="control">
@@ -82,5 +89,7 @@
     </div>
 
 </div>
+
+
 
 <?= $this->endSection() ?>
