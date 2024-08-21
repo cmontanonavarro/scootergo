@@ -52,7 +52,7 @@ class login_controller extends Controller
         
         $session = session();
 
-            if ($session->get('logged_in')) {
+            if ($session->get('logged_in') === TRUE) {
                 $html = '
                     <section class="hero is-small is-light mb-4">
                         <div class="hero-body">
