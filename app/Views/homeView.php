@@ -29,7 +29,7 @@
 
     <!-- Main Content -->
     <div class="column">
-        <section class="hero is-info is-fullheight-with-navbar">
+        <section id="bckgFade" class="hero is-info is-fullheight-with-navbar">
             <div class="hero-body">
                 <div class="container has-text-centered">
                     <h1 class="title">
@@ -117,8 +117,52 @@
         color: #00d1b2 !important;
     }
     
+    /* Estilo para los botones del menu */
+    #btnEditarPerfil {
+        background-color: #3498db;
+        color: white;
+        border-radius: 5px;
+    }
     
+    #btnGestionarReserva {
+        background-color: #f1c40f;
+        color: white;
+        border-radius: 5px;
+    }
+
+    #btnLogout {
+        background-color: #e74c3c;
+        color: black;
+        border-radius: 5px;
+    }
     
+    .hero-body a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .hero-body a:hover {
+        text-decoration: underline;
+    }
+
+    /* Degradado dinámico y diagonal en el background */
+    @keyframes gradientAnimation {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+
+    #bckgFade {
+        background: linear-gradient(135deg, #209CEE, #87CEEB, #209CEE);
+        background-size: 200% 200%;
+        animation: gradientAnimation 10s ease infinite;
+    }
 
 </style>
 

@@ -54,27 +54,27 @@ class login_controller extends Controller
 
             if ($session->get('logged_in') === TRUE) {
                 $html = '
-                    <section class="hero is-small is-light mb-4">
+                    <section id="btnEditarPerfil" class="hero is-small is-primary mb-4">
                         <div class="hero-body">
-                            <p class="title">¡ Hola !</p>
+                            <p class="title">EDITAR PERFIL</p>
                             <p class="subtitle">' . $session->get('nombreUsuario') . ' ' . $session->get('apellidoUsuario') . '</p>
                         </div>
                     </section>
 
-                    <section class="hero is-small is-light mb-4">
+                    <section id="btnGestionarReserva" class="hero is-small is-info mb-4">
+                        <div class="hero-body">
+                            <a href="' . base_url('#') . '">
+                                <p class="title">GESTIONAR RESERVAS</p>
+                                <p class="subtitle">asdfasdf</p>
+                            </a>
+                        </div>
+                    </section>
+                    
+                    <section id="btnLogout" class="hero is-small is-warning">
                         <div class="hero-body">
                             <a href="' . base_url('logout') . '">
                                 <p class="title">CERRAR SESIÓN</p>
                                 <p class="subtitle">Salir de la cuenta</p>
-                            </a>
-                        </div>
-                    </section>
-
-                    <section class="hero is-small is-info">
-                        <div class="hero-body">
-                            <a href="' . base_url('logout') . '">
-                                <p class="title">GESTIONAR RESERVAS</p>
-                                <p class="subtitle">asdfasdf</p>
                             </a>
                         </div>
                     </section>';
