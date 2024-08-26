@@ -57,6 +57,16 @@
         </section>
     </div>
 
+    <!-- Invitación emergente para registrarse al finalizar TimeOut -->
+    <div id="overlay" class="overlay" style="display: none;">
+        <div class="registration-box">
+            <button id="close-registration-box" class="close-button">&times;</button>
+            <h2>¡Regístrate y comienza a alquilar scooters ahora!</h2>
+            <p>Accede a ofertas exclusivas y más.</p>
+            <a href="<?= base_url('#'); ?>">Registrarse</a>
+        </div>
+    </div>
+
 </div>
 
 <script type="text/javascript">
@@ -75,6 +85,19 @@
             prevArrow: $('#slick-prev'),
             nextArrow: $('#slick-next')
         });
+
+
+        // TimeOut para mostrar invitación a registro + Cierre de la invitación de registro
+        setTimeout(function() {
+            $('.column').addClass('blur-effect');
+            $('#overlay').fadeIn(500);
+        }, 6000); // 6000 MS = 6 SEG
+
+        $('#close-registration-box').click(function() {
+            $('.column').removeClass('blur-effect');
+            $('#overlay').fadeOut(500);
+        });
+
     });
 
     // Convierto el array de PHP a un JSON para usarlo en JavaScript
@@ -117,6 +140,8 @@
         color: #00d1b2 !important;
     }
     
+
+
     /* Estilo para los botones del menu */
     #btnEditarPerfil {
         background-color: #3498db;
@@ -145,6 +170,8 @@
         text-decoration: underline;
     }
 
+
+
     /* Degradado dinámico y diagonal en el background */
     @keyframes gradientAnimation {
         0% {
@@ -163,6 +190,67 @@
         background-size: 200% 200%;
         animation: gradientAnimation 10s ease infinite;
     }
+
+
+
+    /* DESENFOQUE DE FONDO Y ESTILO AL RECUADRO EMERGENTE */
+    .blur-effect {
+        filter: blur(8px);
+        pointer-events: none;
+    }
+    .overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 10;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .registration-box {
+        position: relative;
+        background-color: white;
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+        z-index: 20;
+        text-align: center;
+        max-width: 400px;
+        width: 90%;
+    }
+    .registration-box h2 {
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+    }
+    .registration-box a {
+        background-color: #209CEE;
+        color: white;
+        padding: 0.5rem 1rem;
+        border-radius: 5px;
+        text-decoration: none;
+        margin-top: 1rem;
+        display: inline-block;
+    }
+    .registration-box a:hover {
+        background-color: #187bb5;
+    }
+    .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #333;
+    }
+    .close-button:hover {
+        color: #e74c3c;
+    }
+    /* FIN BLOQUE CSS DESENFOQUE FONDO Y RECUADRO EMERGENTE */
 
 </style>
 
