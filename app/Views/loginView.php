@@ -90,6 +90,15 @@
 
 </div>
 
+<script>
+
+    $(document).ready(function(){
+        // Al cargar el DOM pongo el foco en el input email
+        $('input[name="email"]').focus();
+    });
+
+
+</script>
 
 
 <?= $this->endSection() ?>
