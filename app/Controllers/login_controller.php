@@ -70,14 +70,33 @@ class login_controller extends Controller
                         </div>
                     </section>
                     
-                    <section id="btnLogout" class="hero is-small is-warning">
+                    <section id="btnLogout" class="hero is-small is-warning mb-4">
                         <div class="hero-body">
                             <a href="' . base_url('logout') . '">
                                 <p class="title">CERRAR SESIÓN</p>
                                 <p class="subtitle">Salir de la cuenta</p>
                             </a>
                         </div>
+                    </section>
+
+                    <section class="hero is-small is-link mb-4">
+                        <div class="hero-body">
+                            <a href="' . base_url('#') . '">
+                                <p class="title">VER CATÁLOGO</p>
+                                <p class="subtitle">¡Echa un vistazo a todas!</p>
+                            </a>
+                        </div>
+                    </section>
+
+                    <section class="hero is-small is-link">
+                        <div class="hero-body">
+                            <a href="' . base_url('#') . '">
+                                <p class="title">VER DISPONIBLES</p>
+                                <p class="subtitle">¡Elige entre las Scooter libres!</p>
+                            </a>
+                        </div>
                     </section>';
+
             } else {
                 $html = '
                     <section class="hero is-small is-link mb-4">

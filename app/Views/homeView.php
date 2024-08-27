@@ -58,7 +58,7 @@
     </div>
 
     <!-- Invitación emergente para registrarse al finalizar TimeOut -->
-    <div id="overlay" class="overlay" style="display: none;">
+    <div id="overlay" class="overlay" style="display: none;" data-logged-in="<?= session()->get('logged_in') ? 'true' : 'false' ?>">
         <div class="registration-box">
             <button id="close-registration-box" class="close-button">&times;</button>
             <h2>¡Regístrate y comienza a alquilar scooters ahora!</h2>
@@ -88,15 +88,20 @@
 
 
         // TimeOut para mostrar invitación a registro + Cierre de la invitación de registro
+        var isLoggedIn = $('#overlay').data('logged-in');
+        console.log('logged_in: ' + isLoggedIn);
+        
+        if (!isLoggedIn) { 
         setTimeout(function() {
             $('.column').addClass('blur-effect');
             $('#overlay').fadeIn(500);
-        }, 6000); // 6000 MS = 6 SEG
+        }, 6000); // 1000 MS = 1 SEG
 
         $('#close-registration-box').click(function() {
             $('.column').removeClass('blur-effect');
             $('#overlay').fadeOut(500);
         });
+    }
 
     });
 
