@@ -81,7 +81,7 @@ class login_controller extends Controller
 
                     <section class="hero is-small is-link mb-4">
                         <div class="hero-body">
-                            <a href="' . base_url('#') . '">
+                            <a href="' . base_url('catalogo') . '">
                                 <p class="title">VER CATÁLOGO</p>
                                 <p class="subtitle">¡Echa un vistazo a todas!</p>
                             </a>

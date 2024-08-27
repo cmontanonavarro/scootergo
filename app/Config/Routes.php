@@ -9,6 +9,9 @@ use CodeIgniter\Router\RouteCollection;
 // HOME
 $routes->get('/', 'Home::index');
 
+// VISTAS DE CATALOGO
+$routes->get('/catalogo', 'catalogo_controller::index');
+
 // LOGIN y LOGOUT
 $routes->get('login', 'login_controller::mostrarLoginForm');
 $routes->post('login/autenticar', 'login_controller::autenticar');
