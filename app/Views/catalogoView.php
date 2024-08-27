@@ -2,10 +2,6 @@
 
 <?= $this->section('content') ?>
 
-<!-- Slick -->
-<link rel="stylesheet" type="text/css" href="<?= base_url('css/slick.css'); ?>"/>
-<link rel="stylesheet" type="text/css" href="<?= base_url('css/slick-theme.css'); ?>"/>
-
 <div class="columns">
     
     <!-- Sidebar -->
@@ -68,7 +64,6 @@
         color: #00d1b2 !important;
     }
     
-
 
     /* Estilo para los botones del menu */
     #btnEditarPerfil {
