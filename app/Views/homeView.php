@@ -140,7 +140,7 @@
 
 <style>
 
-    /* Resalto el hover sobre las flechas del carrusel con cambio de color */
+    /* Resalto el hover sobre las flechas del carrusel con cambio de color de las flechas*/
     .button:hover i.has-text-info {
         color: #00d1b2 !important;
     }
