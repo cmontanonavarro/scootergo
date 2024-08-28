@@ -107,10 +107,6 @@
 
         motosMostradas += cantidad; // Actualizo el contador de motos mostradas
 
-        // Si ya no hay más motos por mostrar, oculto el botón
-        if (motosMostradas >= motos.length) {
-            $('#load-more').hide();
-        }
     }
 
     $(document).ready(function(){
