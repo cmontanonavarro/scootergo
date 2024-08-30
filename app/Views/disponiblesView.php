@@ -58,13 +58,18 @@
     var motos = <?= json_encode($motos); ?>;
     var motosMostradas = 0; // Contador para las motos mostradas
 
+
+    var motosFiltradas = motos.filter(function(moto) {
+        return moto.disponibleMoto == 1 && moto.mantenimiento == 0;
+    });
+
     function mostrarMotos(cantidad) {
         // Selecciono el contenedor donde se mostrarán las motos
         var container = $('#motos-container');
 
         // Muestro las motos en grupos de 3
-        for (var i = motosMostradas; i < motosMostradas + cantidad && i < motos.length; i++) {
-            var moto = motos[i];
+        for (var i = motosMostradas; i < motosMostradas + cantidad && i < motosFiltradas.length; i++) {
+            var moto = motosFiltradas[i];
             var motoCard = `
                 <div class="column is-one-third">
                     <div class="card is-flex is-flex-direction-column is-justify-content-space-between">
@@ -132,7 +137,7 @@
                 boton.prop('disabled', false);
 
                 // Si no hay más motos, oculto botón
-                if (motosMostradas >= motos.length) {
+                if (motosMostradas >= motosFiltradas.length) {
                     boton.hide();
                 }
             }, 1000);

@@ -10,7 +10,8 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('/', 'Home::index');
 
 // VISTAS DE CATALOGO
-$routes->get('/catalogo', 'catalogo_controller::index');
+$routes->get('/catalogo', 'catalogo_controller::catalogo');
+$routes->get('/disponibles', 'catalogo_controller::disponibles');
 
 // LOGIN y LOGOUT
 $routes->get('login', 'login_controller::mostrarLoginForm');
