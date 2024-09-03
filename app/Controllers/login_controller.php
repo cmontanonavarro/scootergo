@@ -110,7 +110,7 @@ class login_controller extends Controller
 
                     <section class="hero is-small is-link">
                         <div class="hero-body">
-                            <a href="' . base_url('#') . '">
+                            <a href="' . base_url('registro') . '">
                                 <p class="title">CREAR CUENTA</p>
                                 <p class="subtitle">¡Bienvenido a la familia!</p>
                             </a>

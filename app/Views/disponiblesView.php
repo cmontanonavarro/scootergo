@@ -22,7 +22,7 @@
         </aside>
     </div>
 
-    <!-- Main Content -->
+    <!-- Main Content --> 
     <div class="column">
         <section id="bckgFade" class="hero is-info is-fullheight-with-navbar">
             <div class="hero-body">
@@ -58,7 +58,7 @@
     var motos = <?= json_encode($motos); ?>;
     var motosMostradas = 0; // Contador para las motos mostradas
 
-
+    // Filtro las motos para obtener las que no estén reservadas ni en mantenimiento
     var motosFiltradas = motos.filter(function(moto) {
         return moto.disponibleMoto == 1 && moto.mantenimiento == 0;
     });
