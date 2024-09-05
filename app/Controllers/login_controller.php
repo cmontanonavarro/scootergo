@@ -26,7 +26,7 @@ class login_controller extends Controller
 
         if ($user) {
             // Verifica la contraseña
-            if ($password === $user->pwUsuario) {
+            if (password_verify($password, $user->pwUsuario)) {
                 // Configura la sesión
                 $session->set([
                     'idUsuario' => $user->idUsuario,
