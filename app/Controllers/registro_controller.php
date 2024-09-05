@@ -20,9 +20,9 @@ class registro_controller extends BaseController
                 'label' => 'Correo Electrónico',
                 'rules' => 'required|valid_email|is_unique[usuario.emailUsuario]',
                 'errors' => [
-                    'required' => 'El correo electrónico es obligatorio.',
-                    'valid_email' => 'Debes introducir un correo electrónico válido.',
-                    'is_unique' => 'El correo electrónico ya se encuentra registrado.',
+                    'required' => 'El campo {field} es obligatorio.',
+                    'valid_email' => 'El campo {field} no es válido.',
+                    'is_unique' => 'El campo {field} ya se encuentra registrado.',
                 ],
             ],
             'pwUsuario' => [
