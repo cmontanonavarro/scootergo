@@ -1,0 +1,20 @@
+CRITICAL - 2024-09-05 09:15:36 --> ErrorException: Undefined variable $rules
+[Method: POST, Route: registro/registrar]
+in APPPATH\Controllers\registro_controller.php on line 31.
+ 1 APPPATH\Controllers\registro_controller.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rules', 'C:\\wamp64\\www\\scootergo\\app\\Controllers\\registro_controller.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\registro_controller->registrar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\registro_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-05 09:16:18 --> ErrorException: Undefined variable $rules
+[Method: POST, Route: registro/registrar]
+in APPPATH\Controllers\registro_controller.php on line 31.
+ 1 APPPATH\Controllers\registro_controller.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rules', 'C:\\wamp64\\www\\scootergo\\app\\Controllers\\registro_controller.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\registro_controller->registrar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\registro_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

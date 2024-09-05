@@ -40,6 +40,13 @@
             </div>
 
             <div class="field">
+                <label class="label">Repetir contraseña</label>
+                <div class="control">
+                    <input class="input" type="password" name="confirmPwUsuario" placeholder="********" required>
+                </div>
+            </div>
+
+            <div class="field">
                 <label class="label">DNI</label>
                 <div class="control">
                     <input class="input" type="text" name="dniUsuario" placeholder="DNI" value="<?= old('dniUsuario') ?>" required>

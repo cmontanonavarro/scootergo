@@ -63,7 +63,7 @@
             <button id="close-registration-box" class="close-button">&times;</button>
             <h2>¡Regístrate y comienza a alquilar scooters ahora!</h2>
             <p>Accede a ofertas exclusivas y más.</p>
-            <a href="<?= base_url('#'); ?>">Registrarse</a>
+            <a href="<?= base_url('registro'); ?>">Registrarse</a>
         </div>
     </div>
 
