@@ -27,9 +27,10 @@ class registro_controller extends BaseController
             ],
             'pwUsuario' => [
                 'label' => 'Contraseña',
-                'rules' => 'required|min_length[8]',
+                'rules' => 'required|min_length[8]|max_length[128]|regex_match[/(?=.*[A-Z])(?=.*[a-z])(?=.*\d)/]',
                 'errors' => [
                     'required' => 'El campo {field} es obligatorio.',
+                    'regex_match' => 'El campo {field} debe contener al menos una letra mayúscula, una letra minúscula y un número.',
                     'min_length' => 'El campo {field} debe tener al menos {param} caracteres.',
                 ],
             ],
@@ -43,12 +44,10 @@ class registro_controller extends BaseController
             ],
             'dniUsuario' => [
                 'label' => 'DNI',
-                'rules' => 'required|numeric|min_length[8]|max_length[10]|is_unique[usuario.dniUsuario]',
+                'rules'  => 'required|regex_match[/^[0-9]{8}[A-Za-z]$|^[XYZ][0-9]{7}[A-Za-z]$/]|is_unique[usuario.dniUsuario]',
                 'errors' => [
                     'required' => 'El campo {field} es obligatorio.',
-                    'numeric' => 'El campo {field} debe contener solo números.',
-                    'min_length' => 'El campo {field} debe tener al menos {param} caracteres.',
-                    'max_length' => 'El campo {field} no puede tener más de {param} caracteres.',
+                    'regex_match' => 'El {field} debe tener 8 números seguidos de 1 letra (DNI) o comenzar con X, Y o Z, seguido de 7 números y 1 letra (NIE).',
                     'is_unique' => 'El campo {field} ya se encuentra registrado.',
                 ],
             ],
