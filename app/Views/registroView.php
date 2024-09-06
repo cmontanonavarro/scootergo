@@ -3,10 +3,22 @@
 <?= $this->section('content') ?>
 
 <div class="columns">
-    <div class="column is-8 is-offset-2">
+
+<div class="column is-narrow">
+    <aside class="menu">
+            <a href="<?= base_url('/'); ?>">
+                    <figure class="image is-128x128">
+                        <img src="/scgo_favicon.png" alt="Logo">
+                    </figure>
+            </a>
+    </aside>
+</div>
+
+
+    <div class="column is-8 is-offset-1">
         <h1 class="title has-text-centered">Registro de Usuario</h1>
 
-        <!-- Feedback -->
+        <!-- Feedback del Registro -->
         <?php if (session()->get('errors')): ?>
             <div class="notification is-danger">
                 <ul>
@@ -129,5 +141,33 @@
         </div>
     </div>
 </div>
+
+
+<script>
+
+
+
+</script>
+
+<style>
+        /* Degradado dinámico y diagonal en el background */
+        @keyframes gradientAnimation {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+
+    #bckgFade {
+        background: linear-gradient(135deg, #209CEE, #87CEEB, #209CEE);
+        background-size: 200% 200%;
+        animation: gradientAnimation 10s ease infinite;
+    }
+</style>
 
 <?= $this->endSection() ?>
