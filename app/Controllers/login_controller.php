@@ -4,13 +4,18 @@ namespace App\Controllers;
 
 use App\Models\usuario_model;
 use CodeIgniter\Controller;
-use App\Models\UsuarioModel;
 
 class login_controller extends Controller
 {
 
     public function mostrarLoginForm() {
-        return view('loginview');
+    // Llamo a la función mostrar_sidebar() para obtener los datos del sidebar
+    $sidebarData = $this->mostrar_sidebar();
+
+    // Paso los datos del sidebar a la vista loginview
+    return view('loginview', [
+        'sidebarData' => $sidebarData
+    ]);
     }
 
 

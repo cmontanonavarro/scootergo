@@ -15,24 +15,10 @@
             </a>
             
             <p class="menu-label">Menú</p>
-            
-            <section class="hero is-small is-link mb-4">
-                <div class="hero-body">
-                    <a href="<?= base_url('login'); ?>">
-                        <p class="title">INICIAR SESIÓN</p>
-                        <p class="subtitle">¡Bienvenido de nuevo!</p>
-                    </a>
-                </div>
-            </section>
 
-            <section class="hero is-small is-link">
-                <div class="hero-body">
-                    <a href="<?= base_url('#'); ?>">
-                        <p class="title">CREAR CUENTA</p>
-                        <p class="subtitle">¡Bienvenido a la familia!</p>
-                    </a>
-                </div>
-            </section>
+            <!-- Botones disponibles en Sidebar -->
+            <?= $sidebarData ?>
+
 
         </aside>
     </div>
