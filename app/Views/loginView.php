@@ -19,7 +19,6 @@
             <!-- Botones disponibles en Sidebar -->
             <?= $sidebarData ?>
 
-
         </aside>
     </div>
 

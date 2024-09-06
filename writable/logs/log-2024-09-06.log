@@ -12,3 +12,31 @@ in APPPATH\Views\registroView.php on line 20.
  9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
 10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
 11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-06 09:19:45 --> ErrorException: Undefined variable $sidebarData
+[Method: GET, Route: login]
+in APPPATH\Views\loginView.php on line 8.
+ 1 APPPATH\Views\loginView.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sidebarData', 'C:\\wamp64\\www\\scootergo\\app\\Views\\loginView.php', 8)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\loginView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('loginview', [], true)
+ 5 APPPATH\Controllers\login_controller.php(13): view('loginview')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\login_controller->mostrarLoginForm()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-06 09:23:13 --> ErrorException: Undefined variable $sidebarData
+[Method: GET, Route: login]
+in APPPATH\Views\loginView.php on line 20.
+ 1 APPPATH\Views\loginView.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sidebarData', 'C:\\wamp64\\www\\scootergo\\app\\Views\\loginView.php', 20)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\scootergo\\app\\Views\\loginView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('loginview', [], true)
+ 5 APPPATH\Controllers\login_controller.php(12): view('loginview')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\login_controller->mostrarLoginForm()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
