@@ -11,12 +11,8 @@ class Home extends BaseController
         // Llamo a las funciones que necesito de moto_controller
         $motos = $motoController->obtenerMotos();
 
-
-        // Instancia de login_controller
-        $loginController = new \App\Controllers\login_controller();
-        // Llamo a las funciones que necesito de login_controller
-        $sidebarData = $loginController->mostrar_sidebar();
-
+        // Llamo al helper
+        $sidebarData = mostrar_sidebar();
         
         // Paso valores a la vista homeView
         return view('homeView', [

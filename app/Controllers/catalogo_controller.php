@@ -14,9 +14,8 @@ class catalogo_controller extends BaseController
         $motoModel = new moto_model();
         $motos = $motoModel->findAll();
 
-        // Instancio login_controller y llamo a función
-        $loginController = new login_controller();
-        $sidebarData = $loginController->mostrar_sidebar();
+        // Muestro el sidebar con el helper
+        $sidebarData = mostrar_sidebar();
 
         // Paso los datos a la vista
         return view('catalogoView', [
@@ -31,9 +30,8 @@ class catalogo_controller extends BaseController
         $motoModel = new moto_model();
         $motos = $motoModel->findAll();
 
-        // Instancio login_controller y llamo a función
-        $loginController = new login_controller();
-        $sidebarData = $loginController->mostrar_sidebar();
+        // Muestro el sidebar con el helper
+        $sidebarData = mostrar_sidebar();
 
         // Paso los datos a la vista
         return view('disponiblesView', [
