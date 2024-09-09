@@ -9,7 +9,7 @@ class login_controller extends Controller
 {
     public function mostrarLoginForm() {
         // Llamar al helper para obtener los datos del sidebar
-        $sidebarData = mostrar_sidebar(); // Llamada al helper
+        $sidebarData = mostrar_sidebar();
 
         // Paso los datos del sidebar a la vista loginView
         return view('loginview', [
