@@ -108,6 +108,8 @@
                                 <p><strong>Moto:</strong> <?= esc($moto->marcaMoto . ' ' . $moto->modeloMoto); ?></p>
                                 <p><strong>Fecha de Inicio:</strong> <span id="fechaInicioModal"></span></p>
                                 <p><strong>Fecha de Fin:</strong> <span id="fechaFinModal"></span></p>
+                                <p><strong>Precio por día:</strong> <?= esc($moto->precioDiaMoto); ?> €</p>
+                                <p><strong>Precio total:</strong> <span id="precioTotalModal"></span> €</p>
                             </section>
                             <footer class="modal-card-foot">
                                 <button class="button is-success" id="confirmarReserva">Confirmar</button>
@@ -138,15 +140,31 @@
         return fechaObj.toLocaleDateString('es-ES', opciones);
     }
 
+    // Función para calcular la diferencia de días
+    function calcularDiferenciaDias(fechaInicio, fechaFin) {
+        const inicio = new Date(fechaInicio);
+        const fin = new Date(fechaFin);
+        const diferenciaTiempo = fin.getTime() - inicio.getTime();
+        return Math.ceil(diferenciaTiempo / (1000 * 3600 * 24)); // Convierte el tiempo en días
+    }
+
     // Abrir modal y mostrar datos
     document.getElementById('revisarReserva').addEventListener('click', function () {
         const fechaInicio = document.getElementById('fechaInicio').value;
         const fechaFin = document.getElementById('fechaFin').value;
+        const precioDiaMoto = <?= $moto->precioDiaMoto; ?>;
 
         if (fechaInicio && fechaFin) {
             // Formatear las fechas antes de mostrarlas
             document.getElementById('fechaInicioModal').textContent = formatearFechaCompleta(fechaInicio);
             document.getElementById('fechaFinModal').textContent = formatearFechaCompleta(fechaFin);
+
+            // Calcular la diferencia de días
+            const dias = calcularDiferenciaDias(fechaInicio, fechaFin);
+
+            // Calcular el precio total
+            const precioTotal = dias * precioDiaMoto;
+            document.getElementById('precioTotalModal').textContent = precioTotal.toFixed(2); // Mostrar con dos decimales
 
             document.getElementById('reservaModal').classList.add('is-active');
         } else {
