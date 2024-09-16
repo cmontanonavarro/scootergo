@@ -145,7 +145,7 @@
         const inicio = new Date(fechaInicio);
         const fin = new Date(fechaFin);
         const diferenciaTiempo = fin.getTime() - inicio.getTime();
-        return Math.ceil(diferenciaTiempo / (1000 * 3600 * 24)); // Convierte el tiempo en días
+        return Math.ceil(diferenciaTiempo / (1000 * 3600 * 24)) + 1; // El uno del final es para contar el primer día
     }
 
     // Abrir modal y mostrar datos
