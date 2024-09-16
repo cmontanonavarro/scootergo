@@ -62,36 +62,65 @@
                     <!-- Formulario de reserva -->
                     <div class="box">
                         <h2 class="title is-4">Formulario de Reserva</h2>
-                        <form action="/reserva/procesar" method="post">
+                        <form id="reservaForm">
                             <input type="hidden" name="motoId" value="<?= esc($motoId); ?>">
 
-                            <!-- Fecha de la reserva -->
+                            <!-- Fecha de inicio -->
                             <div class="field">
-                                <label class="label" for="fecha">Fecha de Reserva</label>
+                                <label class="label" for="fechaInicio">Fecha de Inicio</label>
                                 <div class="control has-icons-left">
-                                    <input class="input" type="date" name="fecha" id="fecha" required>
+                                    <input class="input" type="date" name="fechaInicio" id="fechaInicio" required>
                                     <span class="icon is-small is-left">
                                         <i class="fas fa-calendar-alt"></i>
                                     </span>
                                 </div>
                             </div>
 
-                            <!-- Número de días -->
+                            <!-- Fecha de fin -->
                             <div class="field">
-                                <label class="label" for="dias">Número de Días</label>
-                                <div class="control">
-                                    <input class="input" type="number" name="dias" id="dias" placeholder="Ingrese el número de días" required>
+                                <label class="label" for="fechaFin">Fecha de Fin</label>
+                                <div class="control has-icons-left">
+                                    <input class="input" type="date" name="fechaFin" id="fechaFin" required>
+                                    <span class="icon is-small is-left">
+                                        <i class="fas fa-calendar-alt"></i>
+                                    </span>
                                 </div>
                             </div>
 
-                            <!-- Botón de enviar -->
+                            <!-- Botón de revisar -->
                             <div class="field is-grouped is-grouped-centered">
                                 <div class="control">
-                                    <button type="submit" class="button is-primary is-medium">Reservar</button>
+                                    <button type="button" class="button is-primary is-medium" id="revisarReserva">CONTINUAR</button>
                                 </div>
                             </div>
                         </form>
                     </div>
+
+                    <!-- Modal -->
+                    <div class="modal" id="reservaModal">
+                        <div class="modal-background"></div>
+                        <div class="modal-card">
+                            <header class="modal-card-head has-background-info">
+                                <p class="modal-card-title has-text-white">Confirmar Reserva</p>
+                                <button class="delete" aria-label="close" id="closeModal"></button>
+                            </header>
+                            <section class="modal-card-body has-text-dark">
+                                <p><strong>Moto:</strong> <?= esc($moto->marcaMoto . ' ' . $moto->modeloMoto); ?></p>
+                                <p><strong>Fecha de Inicio:</strong> <span id="fechaInicioModal"></span></p>
+                                <p><strong>Fecha de Fin:</strong> <span id="fechaFinModal"></span></p>
+                            </section>
+                            <footer class="modal-card-foot">
+                                <button class="button is-success" id="confirmarReserva">Confirmar</button>
+                                <button class="button" id="cancelarReserva">Cancelar</button>
+                            </footer>
+                        </div>
+                    </div>
+
+
+
+
+
+
 
                 </div>
             </div>
@@ -99,6 +128,48 @@
     </div>
 
 </div>
+
+<script>
+
+    // Función para formatear la fecha en un formato legible
+    function formatearFechaCompleta(fecha) {
+        const opciones = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        const fechaObj = new Date(fecha);
+        return fechaObj.toLocaleDateString('es-ES', opciones);
+    }
+
+    // Abrir modal y mostrar datos
+    document.getElementById('revisarReserva').addEventListener('click', function () {
+        const fechaInicio = document.getElementById('fechaInicio').value;
+        const fechaFin = document.getElementById('fechaFin').value;
+
+        if (fechaInicio && fechaFin) {
+            // Formatear las fechas antes de mostrarlas
+            document.getElementById('fechaInicioModal').textContent = formatearFechaCompleta(fechaInicio);
+            document.getElementById('fechaFinModal').textContent = formatearFechaCompleta(fechaFin);
+
+            document.getElementById('reservaModal').classList.add('is-active');
+        } else {
+            alert('Por favor, selecciona ambas fechas.');
+        }
+    });
+
+    // Cerrar modal
+    document.getElementById('closeModal').addEventListener('click', function () {
+        document.getElementById('reservaModal').classList.remove('is-active');
+    });
+
+    // Cancelar reserva
+    document.getElementById('cancelarReserva').addEventListener('click', function () {
+        document.getElementById('reservaModal').classList.remove('is-active');
+    });
+
+    // Confirmar reserva
+    document.getElementById('confirmarReserva').addEventListener('click', function () {
+        document.getElementById('reservaForm').submit(); // Enviar el formulario después de la confirmación
+    });
+
+</script>
 
 <style>
         /* ESTILO EN BOTONES MENU (SIDEBAR) */
